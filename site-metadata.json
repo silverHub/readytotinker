@@ -1,10 +1,10 @@
 {
-  "title": "Silverhub blog",
+  "title": "SilverHub blog",
   "layout_style": "overflow",
   "palette": "blue",
   "header": {
     "title": "Tamas Hoffman",
-    "tagline": "Welcome to my blog",
+    "tagline": "Personal blog",
     "profile_img": "images/avatar.png",
     "bg": "dark",
     "has_nav": true,
