@@ -1,7 +1,7 @@
 ---
 title: Implementing an interactive map with SVG
 date: 2019-08-24T22:00:00.000Z
-thumb_img_path: ''
+thumb_img_path: /images/img1.jpg
 content_img_path: ''
 excerpt: >-
   A practical experiment how to implement an interactive map with modern FE
