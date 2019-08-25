@@ -5,7 +5,7 @@
   "header": {
     "title": "Tamas Hoffman",
     "tagline": "Personal blog",
-    "profile_img": "images/avatar.png",
+    "profile_img": "/images/avatar-big.png",
     "bg": "dark",
     "has_nav": true,
     "has_social": true
