@@ -43,4 +43,4 @@ To make my life easier I confine my soon-to-be application to run solely on Chro
 
 
 
-Next article in the series: Implementing an interactive map with SVG
+Next article in the series: [Implementing an interactive map with SVG](https://silverhub.netlify.com/posts/implementing-an-interactive-map-with-svg/)
