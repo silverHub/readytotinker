@@ -21,9 +21,7 @@ Photo by Christopher Paul High on [Unsplash](https://unsplash.com/photos/y7Qq9Ir
 
 I expect this project will span through a couple of months (maybe years) - depending on my free time - which is absolutely OK. No rush here, I don't want to commit to hard deadlines, I would follow Blizzard's philosophy here: "It's done when it's done". Someone might say this will jeopardize the whole project, but in this case, not the destination is the important but the path to get there. Even if you reach just halfway, you already gained a lot. The idea is to fuel this project by pure fun and the excitement of learning, I hope this will be enough to complete.
 
-**The journey.** I plan to guide the reader through the process of implementation with a series of blog posts. In every post I start with a main challenge and try to describe the natural learning process I'm going through to solve this challenge with the best possible way according to my standards.  There might be challenges which focuses on less important aspects and possible that not every solution is actually needed for the end result. This is also fine, as the journey ultimately also reflects on my learning process on how to develop a game. I try to cover every aspect which could emerge during game development, I can't give a comprehensive list as most probably I'm also not aware of everything. The topics will be various, range from graphical design of game elements through the actual coding of different game mechanics to the observation of application architecture and resource handling, I guess in some way all will be connected to FE development. 
-
-Every journey starts with the first step, in our case the first step is to define what we want to achieve.
+**The journey.** I plan to guide the reader through the process of implementation with a series of blog posts. In every post I start with a main challenge and try to describe the natural learning process I'm going through to solve this challenge with the best possible way according to my standards.  There might be challenges which focuses on less important aspects and possible that not every solution is actually needed for the end result. This is also fine, as the journey ultimately also reflects on my learning process on how to develop a game. I try to cover every aspect which could emerge during game development, I can't give a comprehensive list as most probably I'm also not aware of everything. The topics will be various, range from graphical design of game elements through the actual coding of different game mechanics to the observation of application architecture and resource handling, I guess in some way all will be connected to FE development. Every journey starts with the first step, in our case the first step is to define what we want to achieve.
 
 **The game.** After careful consideration I chose to implement the following board game: [Game of Thrones (Second Edition)](https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition). Apart from the fact that I own this game and find it really enjoyable to play I believe it provides enough challenge for a computer game. It comes also with some advantages:
 
@@ -40,6 +38,8 @@ So let's see what we could expect at the end of the journey, the requirements (f
 This is already an impressive list, so let's ponder on a bit how to start. In the end we need a JS application running in a browser, it wouldn't be that hard, right? Let's see. 
 
 To make my life easier I confine my soon-to-be application to run solely on Chrome, the most advanced browser today. As GOT is entirely played on the main map I would start to have a look on how can I manifest the main map in the browser.
+
+
 
 
 
