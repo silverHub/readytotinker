@@ -1,7 +1,8 @@
 ---
-title: A journey to a board game in Javascript
+title: A journey to implement a board game in Javascript
 date: 2019-08-25T18:36:29.005Z
 thumb_img_path: /images/christopher-paul-high-y7qq9irgpoa-unsplash.jpg
+content_img_path: /images/christopher-paul-high-y7qq9irgpoa-unsplash.jpg
 excerpt: >-
   Outline of a project to implement a classical board game in JS with all the
   belongings. Step by step.
@@ -26,4 +27,16 @@ I expect this project will span through a couple of months (maybe years) - depen
 
 Every journey starts with the first step, in our case the first step is to define what we want to achieve.
 
-**The game.** After
+**The game.** After careful consideration I chose to implement the following board game: [Game of Thrones (Second Edition)](https://boardgamegeek.com/boardgame/103343/game-thrones-board-game-second-edition). Apart from the fact that I own this game and find it really enjoyable to play I believe it provides enough challenge for a computer game. It comes also with some advantages:
+
+* the game graphics are basically given, the game contains a well-designed map with other game pieces so I could concentrate on how to digitize and render these on the screen instead of designing something from scratch which would be entirely out of my comfort zone (maybe next time)
+* the game rules are solid so the real challenge will be how to implement those and present in a user-friendly way
+
+So let's see what we could expect at the end of the journey, the requirements (for myself) would be the following:
+
+* a digital version of the official board game which runs in a browser, implemented in JS and using only browser technologies
+* support for multiplayer mode: players can connect through Internet
+* support for single player mode: one player can play against bots
+* self-learning bots: the bots will employ machine learning to make smarter moves with time (**this will come most probably with the second iteration**)
+
+This is already an impressive list, so let's ponder on a bit how to start.
