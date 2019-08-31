@@ -1,5 +1,5 @@
 ---
-title: Implementing an interactive map with SVG
+title: '#1 Implementing an interactive map with SVG'
 date: 2019-08-31T21:30:14.447Z
 thumb_img_path: /images/img1.jpg
 content_img_path: /images/img1.jpg
