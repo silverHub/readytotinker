@@ -14,9 +14,13 @@ template: post
 ---
 Photo by Christopher Paul High on [Unsplash](https://unsplash.com/photos/y7Qq9IrgpOA)
 
-<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@christopherphigh?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Christopher Paul High"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Christopher Paul High</span></a>
+****
 
-**The plan.** I was always fascinated by computer games. Back in the days I consumed multiple genre and always wondered how hard would it be to implement one.
+**The plan.** I was always fascinated by computer games. Back in the days I consumed multiple genre and always wondered how hard would it be to implement one. I had the plan to figure that out at one day. This day has finally come. I plan to implement a game from scratch without having any detailed knowledge about how computer games developed, so I'm ready to go through all the bits and pieces and learn it on the hard way. Of course I'm not going unarmed into this battle, I have more than 10 years programming experience with multiple languages (C, Java, JavaScript) and I consider myself up-to-date on FE development techniques and modern browser technologies. As a professional, I like to learn new things, this is also one of the driver which put me on this path, I want to learn new things. The farther from my comfort zone is the better. You should expect very technical details on everything I will face with.
+
+I expect this project will span through a couple of months (maybe years) - depending on my free time - which is absolutely OK. No rush here, I don't want to commit to hard deadlines, I would follow Blizzard's philosophy here: "It's done when it's done". Someone might say this will jeopardize the whole project, but in this case not the destination is the important but the path to get there. Even if you reach just halfway, you already gained a lot. The idea is to fuel this project by pure fun and the excitement of learning, I hope this will be enough to complete.
+
+This is a technical 
 
 
 
@@ -30,4 +34,4 @@ I wou
 
 
 
-The game
+**The game.**
