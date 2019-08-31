@@ -5,10 +5,6 @@ thumb_img_path: /images/img1.jpg
 content_img_path: /images/img1.jpg
 template: post
 ---
-## Implementing an interactive map with SVG
-
-
-
 Technologies considered:
 
 \- image map
@@ -17,19 +13,13 @@ Technologies considered:
 
 \- Canvas
 
-
-
 Image map:
 
 old fashioned, not that user friendly, scripting possibilities limited
 
-
-
 SVG:
 
 Excellent scripting, works fine, but tedios
-
-
 
 Canvas:
 
