@@ -10,7 +10,7 @@ menus:
   main:
     identifier: ''
     title: ''
-    weight: 1
+    weight: ''
 template: post
 ---
 Photo by Christopher Paul High on [Unsplash](https://unsplash.com/photos/y7Qq9IrgpOA)
