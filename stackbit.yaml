@@ -290,7 +290,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Titletttt
         description: The title of the post
         required: true
       - type: string
@@ -301,6 +301,10 @@ models:
         name: date
         label: Date
         required: true
+      - type: boolean
+        name: draft
+        label: Draft
+        description: Controls whether the post is shown at deploy or not
       - type: image
         name: thumb_img_path
         label: Featured Image
@@ -317,10 +321,6 @@ models:
         name: menus
         label: Post Menus
         description: Which menus should this page show up in
-      - type: boolean
-        name: draft
-        label: Draft
-        description: Controls whether the post is shown at deploy or not
   section:
     type: object
     label: Section
