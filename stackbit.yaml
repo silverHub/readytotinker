@@ -317,6 +317,10 @@ models:
         name: menus
         label: Post Menus
         description: Which menus should this page show up in
+      - type: boolean
+        name: draft
+        label: Draft
+        description: Controls whether the post is shown at deploy or not
   section:
     type: object
     label: Section
