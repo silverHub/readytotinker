@@ -534,7 +534,7 @@ collections:
     slug: '{{slug}}'
     filter: 
       field: "draft"
-      value: true
+      value: "true"
     fields:
       - widget: string
         name: title
