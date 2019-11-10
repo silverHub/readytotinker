@@ -1,7 +1,7 @@
 export { default as classNames } from './classNames';
 export { default as cycler } from './cycler';
 export { default as getPage } from './getPage';
-export { default as getPages } from './getPages';
+export { default as getPages, filterOutDrafts } from './getPages';
 export { default as htmlToReact } from './htmlToReact';
 export { default as toUrl } from './toUrl';
 export { default as markdownify } from './markdownify';

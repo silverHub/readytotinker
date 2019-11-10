@@ -3,11 +3,13 @@ import _ from 'lodash';
 import moment from 'moment-strftime';
 
 import {Layout} from '../components/index';
-import {getPages, Link, safePrefix} from '../utils';
+import {getPages, Link, safePrefix, filterOutDrafts} from '../utils';
 
 export default class Blog extends React.Component {
     render() {
         let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts'), 'frontmatter.date', 'desc');
+        // Modification to hide draft posts:
+        display_posts = filterOutDrafts(display_posts);
         return (
             <Layout {...this.props}>
               <div class="post-feed">

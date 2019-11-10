@@ -2,12 +2,15 @@ import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
 
-import {getPages, Link, safePrefix} from '../utils';
+import {getPages, Link, safePrefix, filterOutDrafts} from '../utils';
 
 export default class PostsBlock extends React.Component {
     render() {
         let display_posts = _.orderBy(getPages(this.props.pageContext.pages, '/posts'), 'frontmatter.date', 'desc');
+        // Modification to hide draft posts:
+        display_posts = filterOutDrafts(display_posts);
         let recent_posts = display_posts.slice(0, _.get(this.props, 'section.num_posts_displayed'));
+
         return (
             <section id={_.get(this.props, 'section.section_id')} class="block">
               <h2 class="block-title underline">{_.get(this.props, 'section.title')}</h2>

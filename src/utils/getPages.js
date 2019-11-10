@@ -5,3 +5,7 @@ export default function(pages, folderPath) {
     folderPath = folderPath.replace(/^\//, '');
     return _.filter(pages, {relativeDir: folderPath});
 }
+
+export function filterOutDrafts(list){
+    return list.filter(item => !item.frontmatter.draft);
+}
