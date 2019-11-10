@@ -7,11 +7,6 @@ content_img_path: /images/christopher-paul-high-y7qq9irgpoa-unsplash.jpg
 excerpt: >-
   Outline of a project to implement a classical board game in JS with all the
   belongings. Step by step.
-menus:
-  main:
-    identifier: ''
-    title: ''
-    weight: ''
 template: post
 ---
 Photo by Christopher Paul High on [Unsplash](https://unsplash.com/photos/y7Qq9IrgpOA)

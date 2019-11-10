@@ -1,9 +1,5 @@
 ---
 title: Contact
-menus:
-  main:
-    title: ''
-    weight: ''
 template: contact
 ---
 
