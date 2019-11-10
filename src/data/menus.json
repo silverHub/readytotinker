@@ -1,3 +1,16 @@
 {
-  "main": []
+  "main": [
+    {
+      "identifier": "home",
+      "title": "Home",
+      "url": "/home",
+      "weight": 1
+    },
+    {
+      "identifier": "blog",
+      "title": "Blog",
+      "url": "/blog",
+      "weight": 2
+    }
+  ]
 }
