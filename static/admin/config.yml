@@ -611,9 +611,9 @@ collections:
         label: Content
         required: false
         hint: Page content
-    filter:
-      field: template
-      value: post
+    # filter:
+    #   field: template
+    #   value: post
   - name: site_menus
     label: Site Menus
     files:
