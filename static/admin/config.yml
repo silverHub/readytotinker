@@ -532,6 +532,9 @@ collections:
     create: true
     extension: md
     slug: '{{slug}}'
+    filter: 
+      field: "draft"
+      value: true
     fields:
       - widget: string
         name: title
