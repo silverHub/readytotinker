@@ -533,8 +533,8 @@ collections:
     extension: md
     slug: '{{slug}}'
     filter: 
-      field: "draft"
-      value: "true"
+      field: draft
+      value: true
     fields:
       - widget: string
         name: title
