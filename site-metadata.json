@@ -7,7 +7,7 @@
     "tagline": "Personal tech blog",
     "profile_img": "/images/avatar-big.png",
     "bg": "dark",
-    "has_nav": false,
+    "has_nav": true,
     "has_social": true
   },
   "footer": {
