@@ -1,9 +1,3 @@
 {
-  "main": [
-    {
-      "identifier": "ID",
-      "title": "Test",
-      "url": "/test"
-    }
-  ]
+  "main": []
 }
