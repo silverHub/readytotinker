@@ -1,6 +1,6 @@
 ---
 title: A journey to implement a board game in Javascript
-draft: false
+draft: true
 date: 2019-08-25T18:36:29.005Z
 thumb_img_path: /images/christopher-paul-high-y7qq9irgpoa-unsplash.jpg
 content_img_path: /images/christopher-paul-high-y7qq9irgpoa-unsplash.jpg
