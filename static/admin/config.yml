@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
   branch: master
-publish_mode: editorial_workflow
 media_folder: static/images
 public_folder: /images
 collections:
@@ -544,6 +543,12 @@ collections:
         label: Subtitle
         required: false
         hint: The text shown just below the post title.
+      - widget: "boolean"
+        label: "Draft"
+        name: "draft"
+        required: true
+        default: false
+        hint: Switching draft mode. Posts in draft mode are not shown in prod.
       - widget: date
         name: date
         label: Date
