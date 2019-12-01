@@ -1,14 +1,16 @@
 ---
 title: How's my blog works?
-subtitle: Really.
+subtitle: >-
+  This question really gave me some headache recently. But let's start at the
+  beginning.
 draft: false
 date: 2019-12-01T15:18:12.549Z
 thumb_img_path: /images/blog.jpg
 template: post
 ---
-**The wonder of personal page.** This question really gave me some headache recently. But let's start at the beginning.
+**The wonder of Stackbit.** 
 
-During my recent surfing session I stumbled upon a minimalist little page called [Stackbit](https://www.stackbit.com/). I've just read first sentence but right away I decided to give it a try. Stackbit promised to create me a personal page in no time at all and absolutely free. Who wouldn't try that? 
+During my recent surfing session I stumbled upon a minimalist little app, called [Stackbit](https://www.stackbit.com/). I've just read first sentence but right away I decided to give it a try. Stackbit promised to create me a personal page in no time at all and absolutely free. Who wouldn't try that? 
 
 After 4 click I had my page ready.
 
