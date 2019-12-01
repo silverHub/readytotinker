@@ -11,6 +11,11 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/in/tamas-hoffman/"
+    },
+    {
+      "title": "Twitter",
+      "icon": "fa-twitter",
+      "url": "https://twitter.com/tamas_hoffman"
     }
   ]
 }
