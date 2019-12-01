@@ -1,8 +1,9 @@
 ---
 title: How's my blog works?
 subtitle: Really.
-draft: true
+draft: false
 date: 2019-12-01T15:18:12.549Z
+thumb_img_path: /images/blog.jpg
 template: post
 ---
 **The wonder of personal page.** This question really gave me some headache recently. But let's start at the beginning.
