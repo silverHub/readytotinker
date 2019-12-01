@@ -8,9 +8,7 @@ date: 2019-12-01T15:18:12.549Z
 thumb_img_path: /images/blog.jpg
 template: post
 ---
-**The wonder of Stackbit.** 
-
-During my recent surfing session I stumbled upon a minimalist little app, called [Stackbit](https://www.stackbit.com/). I've just read the first sentence but right away I decided to give it a try. Stackbit promised to create me a personal page in no time at all and absolutely free. Who wouldn't try that? 
+**The wonder of Stackbit.** During my recent surfing session I stumbled upon a minimalist little app, called [Stackbit](https://www.stackbit.com/). I've just read the first sentence but right away I decided to give it a try. Stackbit promised to create me a personal page in no time at all and absolutely free. Who wouldn't try that? 
 
 After 4 click I had my page ready.
 
@@ -26,6 +24,8 @@ I was realized that I need to dig deeper if I want to get more benefit from this
 
 
 **The pieces.**
+
+JAMStack.
 
 We have Stackbit 
 
