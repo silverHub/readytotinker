@@ -3,9 +3,13 @@ title: Home
 sections:
   - component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      You will find every important information about me here.
+
+
+      Additionally you should find technical blog posts and the list of my pet
+      projects as well. With time.
     section_id: hero
+    title: Title of Hero section
     type: heroblock
   - actions: []
     component: ContentBlock
