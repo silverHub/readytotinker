@@ -10,9 +10,7 @@ sections:
   - actions: []
     component: ContentBlock
     content: >-
-      Software development is my chosen profession and as many of you may know this comes with tinkering with code even outside office    hours. Since a while I felt I was missing a medium where I could collect my thoughts and share with a bigger audience. Secretly I'm also hoping, this will also help to concentrate on less but more accomplished pet-projects. 
-
-So that would be what this site is all about.
+      Software development is my chosen profession and as many of you may know this comes with tinkering with code even outside office    hours. Since a while I felt I was missing a medium where I could collect my thoughts and share with a bigger audience. Secretly I'm also hoping, this will also help to concentrate on less but more accomplished pet-projects. So that would be what this site is all about.
     image: ''
     section_id: about
     title: About this site
