@@ -3,24 +3,16 @@ title: Home
 sections:
   - component: HeroBlock
     content: >-
-      Let's try this blogging thing. You will find every unimportant information
-      about me here.
-
-
-      Additionally you should find technical blog posts and the list of my pet
-      projects as well. With time.
+      Let's try this blogging thing. 
     section_id: hero
     title: Welcome.
     type: heroblock
   - actions: []
     component: ContentBlock
     content: >-
-      I like to tinker around with code. This is my official profession as well
-      since 10+ years. I'm fascinated by FE technologies and JS programming
-      however I had couple of years of experience with the dark side (Java) as
-      well. Usually I'm too lazy to finish my pet-projects so I need some
-      incentive to be more disciplined and properly document and share the
-      knowledge I gain. So that would be what this site is all about.
+      Software development is my chosen profession and as many of you may know this comes with tinkering with code even outside office    hours. Since a while I felt I was missing a medium where I could collect my thoughts and share with a bigger audience. Secretly I'm also hoping, this will also help to concentrate on less but more accomplished pet-projects. 
+
+So that would be what this site is all about.
     image: ''
     section_id: about
     title: About this site
