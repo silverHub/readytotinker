@@ -1,5 +1,5 @@
 ---
-title: How's my blog works?
+title: How's my blog work?
 subtitle: >-
   This question really gave me some headache recently. But let's start at the
   beginning.
