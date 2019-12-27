@@ -28,15 +28,17 @@ Worked like a charm. Based on the wizard, my understanding was the following:
 
 I found this extremely quick and useful in case of simple web pages, like portfolio pages, resumes, blogs. It also gives an easy way to experiment with different solutions, pick any static site generator or CMS and play with the result. As a bonus, the source code is all yours so you can develop extra functionality on top of the existing ones, but that requires deeper understanding of the building blocks. 
 
-**The concept.**  Let's see the use case of a simple blog which usually comes with introduction texts and posts. Static texts are part of the source but posts can be considered dynamic content because usually you need to have a solution to store and add/modify/delete them and this is usually solved with a server side module and a database. But in our case there is no server interaction, posts are stored together with the source code. This principle follows the [JAMStack](https://jamstack.org/) architecture, which got popular lately thanks to it's simplicity and excellent scaling possibilities. Seems to me a modern rethink of the good old solutions like WordPress/Drupal/Joomla. 
+**The concept.**  Let's take a simple blog as a use case. A blog usually comes with introduction texts and posts. Static texts are part of the source but posts can be considered dynamic content because usually you need to have a solution to store and add/modify/delete them and this is usually solved with a server side module and a database. With Stackbit there is no server interaction, posts are stored together with the source code. This principle follows the [JAMStack](https://jamstack.org/) architecture, which got popular lately thanks to it's simplicity and excellent scaling possibilities. Seems to me a modern rethink of the good old solutions, like WordPress/Drupal/Joomla. 
 
-Handling posts as part of the source code is a surprising idea for first but it gives you a certain level of freedom and simplicity. The format of these files are well-defined and can be processed during build time, that's why we use a static site generator. 
+Handling posts as part of the source code is a surprising idea for first but it gives you a certain level of freedom and simplicity. The format of these files are well-defined and together with other JSON files which contain further meta-information can be processed during build time. The build produces the final HTML files which are going to be deployed to a hosting service, at the time of writing, only Netlify is supported. So if I would like to do changes in texting or create a new post I need to use Git commits, that can be done manually as well, but the supported CMS engines could also do this for you with the convenience of a basic GUI.
 
-The goal of Stackbit is clear to deliver a static web page in no time, focus is on client side, every variable which requires server side tinkering is simply left out from the equation.
+![Netlify CMS](/images/cms.jpg "Netlify CMS")
+
+So why do you need Stackbit? Truth is, if you would start with a Gatsby template you could also get to this point with a fair amount of work. Stackbit just makes it a lot more easier, orchestrating the bits and providing a central place where you can easily manage the whole flow. Also sprinkle a nice customization in the form of templates for various use cases, when you logged in to Stackbit you will get a dashboard with your projects. You can also get free updates if the templates are developed further. With this part I'm not that familiar yet.
+
+
 
 **The pieces.** GitHub
-
-
 
 JAMStack.
 
