@@ -34,9 +34,7 @@ Handling posts as part of the source code is a surprising idea for first but it 
 
 ![Netlify CMS](/images/cms.jpg "Netlify CMS")
 
-So why do you need Stackbit? Truth is, if you would start with a Gatsby template you could also get to this point with a fair amount of work. Stackbit just makes it a lot more easier, orchestrating the bits and providing a central place where you can easily manage the whole flow. Also sprinkle a nice customization in the form of templates for various use cases, when you logged in to Stackbit you will get a dashboard with your projects. You can also get free updates if the templates are developed further.
-
-**The pieces.** Here is a high level overview on the building blocks:
+So why do you need Stackbit? Truth is, if you would start with a Gatsby template you could also get to this point with a fair amount of work. Stackbit just makes it a lot more easier, orchestrating the bits and providing a central place where you can easily manage the whole flow. Also sprinkle a nice customization in the form of templates for various use cases, when you logged in to Stackbit you will get a dashboard with your projects. You can also get free updates if the templates are developed further. Here is a high level overview on the building blocks:
 
 ***GitHub***: stores the source of the webpage. Change detection is built on webhooks, every commit on master branch triggers a build in Netlify.
 
