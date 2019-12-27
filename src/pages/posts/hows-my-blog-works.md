@@ -10,6 +10,8 @@ template: post
 ---
 **The wonder of Stackbit.** During my recent surfing session I stumbled upon a minimalist little app, called [Stackbit](https://www.stackbit.com/). I've just read the first sentence but right away I decided to give it a try. Stackbit promised to create me a personal page in no time at all and absolutely free. Who wouldn't try that? 
 
+![Stackbit](/images/stackbit.jpg "Stackbit theme selector")
+
 After 4 click I had my page ready.
 
 * 1. click: choose a template
@@ -26,8 +28,6 @@ I realized that I need to dig deeper if I want to get more benefit from this. So
 **The concept.** The goal here is to deliver a static web page in no time, focus is on client side, every variable which requires server side tinkering is simply left out from the equation. Let's see the use case of a simple blog which usually comes with introduction texts and posts. Posts can be considered dynamic content because usually you need to have a solution to store and add/modify/delete them and this is usually solved with a server side module and a database. But in this case we have no server interaction, posts are stored together with the source code. This principle follows the [JAMStack](https://jamstack.org/) architecture, which got popular lately thanks to it's simplicity and excellent scaling possibilities. Seems to me a modern rethink of the good old solutions like WordPress/Drupal/Joomla.
 
 **The pieces.** GitHub
-
-
 
 This idea is surprising for first but in the end it gives you a certain level of freedom and simplicity. 
 
