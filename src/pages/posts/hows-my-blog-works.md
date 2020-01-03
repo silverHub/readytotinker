@@ -11,8 +11,6 @@ template: post
 ---
 **The wonder of Stackbit.** During my recent surfing session I stumbled upon a minimalist little app, called [Stackbit](https://www.stackbit.com/).  I've just read the first sentence but right away I decided to give it a try. Stackbit (still in Beta but works stable) promised to create me a personal page in no time at all and absolutely free. Who wouldn't try that? 
 
-![Stackbit](/images/stackbit.jpg "Stackbit theme selector")
-
 After 4 click I had my page ready.
 
 * 1. click: choose a template
@@ -26,6 +24,8 @@ Worked like a charm. Based on the wizard, my understanding was the following:
 * some magic (called site generator) included which is most probably important, but I don't know yet why
 * the generated page comes with a placeholder text which I can conveniently modify with content management system (CMS)
 * my page is already deployed and accessible on the Internet. Fascinating.
+
+![Stackbit](/images/stackbit.jpg "Stackbit theme selector")
 
 I found this extremely quick and useful in case of simple web pages, like portfolio pages, resumes, blogs. It also gives an easy way to experiment with different solutions, pick any static site generator or CMS and play with the result. As a bonus, the source code is all yours so you can develop extra functionality on top of the existing ones, but that requires deeper understanding of the building blocks. 
 
