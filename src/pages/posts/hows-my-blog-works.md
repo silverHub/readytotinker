@@ -6,6 +6,7 @@ subtitle: >-
 draft: false
 date: 2019-12-01T15:18:12.549Z
 thumb_img_path: /images/blog.jpg
+content_img_path: /images/blog.jpg
 template: post
 ---
 **The wonder of Stackbit.** During my recent surfing session I stumbled upon a minimalist little app, called [Stackbit](https://www.stackbit.com/).  I've just read the first sentence but right away I decided to give it a try. Stackbit (still in Beta but works stable) promised to create me a personal page in no time at all and absolutely free. Who wouldn't try that? 
