@@ -1,3 +1,13 @@
 {
-  "main": []
+  "main": [
+    {
+      "identifier": "resume", 
+      "title": "Resume",
+      "url": "https://10vds.csb.app/",
+      "weight": 3,
+      "data": {
+        "external": true
+      }
+    }
+  ]
 }

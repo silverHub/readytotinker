@@ -39,7 +39,7 @@ export default class Header extends React.Component {
                         <ul class="menu">
                           {_.map(_.get(this.props, 'pageContext.menus.main'), (item, item_idx) => (
                           <li key={item_idx} class={'menu-item ' + ((_.get(this.props, 'pageContext.url') === _.get(item, 'url')) ? ' current-menu-item' : '')}>
-                            <Link to={safePrefix(_.get(item, 'url'))}>{_.get(item, 'title')}</Link>
+                            <Link to={safePrefix(_.get(item, 'url'))} target={_.get(item, 'external')? "_blank":"_parent"}>{_.get(item, 'title')}</Link>
                           </li>
                           ))}
                         </ul>
