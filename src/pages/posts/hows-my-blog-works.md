@@ -2,13 +2,15 @@
 title: How's my blog work?
 subtitle: This question really gave me some headache recently. But let's start
   at the beginning.
-draft: true
+draft: false
 date: 2019-12-01T15:18:12.549Z
 thumb_img_path: /images/blog.jpg
 content_img_path: /images/blog.jpg
 template: post
 ---
-**The wonder of Stackbit.** During my recent surfing session I stumbled upon a minimalist little app, called [Stackbit](https://www.stackbit.com/).  After reading the marketing info I decided to give it a try. Stackbit (at the time of writing it is still in Beta but seems stable) promised to create a personal page in no time and absolutely free. 
+# **The wonder of Stackbit**
+
+During my recent surfing session I stumbled upon a minimalist little app, called [Stackbit](https://www.stackbit.com/).  After reading the marketing info I decided to give it a try. Stackbit (at the time of writing it is still in Beta but seems stable) promised to create a personal page in no time and absolutely free. 
 
 Who wouldn't try that? 
 
@@ -30,17 +32,24 @@ Worked like a charm. Based on the wizard, my understanding was the following:
 
 I found this extremely quick and useful in case of simple web pages, like portfolio pages, resumes, blogs. It also gives an easy way to experiment with different solutions, pick any static site generator or CMS and play with the result. As a bonus, the source code is all yours so you can develop extra functionality on top of the existing ones, but that requires deeper understanding of the building blocks. 
 
-**Technical background.**  Let's take a simple blog as a use case. A blog usually consist from static (introduction texts, icons etc..) and dynamic data (blog posts on various topics). Static data is part of the source code but for dynamic content you need to have a solution in place to store and add/modify/delete and this is traditionally solved with a server side module and a database. 
+# **Solution overview**
 
-Your Stackbit blog is delivered as a static webpage without server interactions. Still, you can add arbitrary pages and blog posts through the content management system. These changes are deployed to your live blog within minutes. In the background, your dynamic content is stored on GitHub as part of the source code. The Netlify CI system triggered by every GitHub action and compiles your source into a shippable webpage. Here is the overview:
+Let's take a simple blog as a use case. A blog usually consist from static (introduction texts, icons etc..) and dynamic data (blog posts on various topics). Static data is part of the source code but for dynamic content you need to have a solution in place to store and add/modify/delete and this is traditionally solved with a server side module and a database. 
 
-![](/images/stackbitblog.png)
+Your Stackbit blog is delivered as a static webpage without server interactions. Still, you can add arbitrary pages and blog posts through the content management system. These changes are released within minutes. In the background, your dynamic content is stored on GitHub as part of the source code. Netlify CI system is triggered by every GitHub action and compiles your source into a shippable webpage. Here is the overview:
 
-Posts are stored as source code. This principle follows the [JAMStack](https://jamstack.org/) architecture, which got popular lately thanks to it's simplicity and excellent scaling possibilities. 
+![Figure about technical components behind a Stackbit blog](/images/stackbitblog.png "Solution overview")
 
-Seems to me a modern rethink of the good old solutions, like WordPress/Drupal/Joomla.
+The solution follows the [JAMStack](https://jamstack.org/) architecture principles. Having a simple static site at the end of the build process has numerous advantages:
 
-Handling posts as part of the source code is a surprising idea for first but it gives you a certain level of freedom and simplicity. The format of these files are well-defined and together with other JSON files which contain further meta-information can be processed during build time. To enable easy processing the content is defined with Markdown. The build produces the final HTML files which are going to be deployed to a hosting service, at the time of writing, only Netlify is supported. So if I would like to do changes in texting or create a new post I need to use Git commits, that can be done manually as well, but the supported CMS engines could also do this for you with the convenience of a basic GUI.
+* your site loads faster, no server-side calls to hinder rendering
+* excellent scaling as you can deploy the whole blog to CDN
+
+The complexity of the dynamic content management is hidden behind CMS and a sophisticated build process. 
+
+#  Components
+
+Handling dynamic content as part of the source code is a surprising idea for first but it gives you a certain level of freedom and simplicity. The format of these files are well-defined and together with other JSON files which contain further meta-information can be processed during build time. To enable easy processing the content is defined with Markdown. The build produces the final HTML files which are going to be deployed to a hosting service, at the time of writing, only Netlify is supported. So if I would like to do changes in texting or create a new post I need to use Git commits, that can be done manually as well, but the supported CMS engines could also do this for you with the convenience of a basic GUI.
 
 ![Netlify CMS](/images/cms.jpg "Netlify CMS")
 
