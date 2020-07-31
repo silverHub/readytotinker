@@ -1,5 +1,5 @@
 ---
-title: 'Blog customization: Draft feature'
+title: "Blog customization: Draft article"
 subtitle: Enable draft posts
 draft: true
 date: 2019-12-01T15:18:12.549Z
