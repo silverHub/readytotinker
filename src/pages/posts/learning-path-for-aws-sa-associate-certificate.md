@@ -6,20 +6,18 @@ date: 2021-07-16T12:57:34.642Z
 excerpt: Detailed summary about the preparation for AWS SA Associate certificate.
 template: post
 ---
-# **Summary**
+# **TLDR;**
 
-This is a summary of my experiences preparing for AWS SA Associate exam. I detail the preparation process with all the challenges. Describe the exam with all the frustrating details.
-
-
+This is a summary of my experiences preparing for AWS SA Associate exam. I detail the preparation process with all the challenges and pitfalls, how the exam organized and all the useful resources I used.
 
 # **Background**
 
 
 
-There is literally no day can pass without reading about 
+# Preparation
 
+# Exam
 
+# Hints
 
-Preparation
-
-Hints
+# Resources
