@@ -26,9 +26,22 @@ I'm working as a lead dev since 10+ years. During my professional carrier I work
 
 It is staggering to see the number of AWS services at the first time. The documentation looks never-ending, the sheer amount of concepts and topics you need to comprehend can make anybody uncertain: where to start. I have to mention that there is a certificate for total newbies: [Cloud practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/?ep=sec&sec=fndl), this is meant to explain basic cloud concepts and make you familiar with AWS as a whole. I deliberately skipped this as I believed given my strong technical background and advancement in solution architecture I could spare the time. I still think I didn't lost anything with this decision.
 
-So I made [Solution Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1) to my primary target. 
+So I made [Solution Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1) to my primary target. Best to get familiar with the [exam guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf) to understand what is (and what is not) to be expected on the exam, make sure that you understand the main domains the exam covers. Also worth to take a look on the [sample questions](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf). 
 
-You need to have a clear goal and you should build up the learning path keeping your goal in the center.
+*Note: There are 2 versions of the exam, SAA-C01 and SAA-C02, the latter is the only one available in 2021, main difference is that operational excellence is removed as a domain therefore more question targets cost-effectiveness. You can consult with this [page](https://www.whizlabs.com/blog/aws-saa-c01-or-saa-c02/) for the details. The importance of knowing this will be clear when the hunting for learning resources begins.*
+
+Amazon also recommends to have at least 1 year of hands-on experience with AWS before taking on the exam, according to my experiences this is not a must.
+
+## Domains
+
+The exam guide lists the main domains, the questions are centered around with the distribution:
+
+* Resilience - 30%
+* Performance - 28%
+* Security - 24%
+* Cost-optimization - 18%
+
+These are 4 from the 5 quality attributes (or pillars) upon AWS built his [Well-Architected framework](https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/). (The fifth pillar is operational excellence which was removed in SAA-C02, although I believe this gets more focus in SysOps Administrator – Associate exam).
 
 
 
