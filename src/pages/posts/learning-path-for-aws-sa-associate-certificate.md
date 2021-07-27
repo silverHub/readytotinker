@@ -41,9 +41,7 @@ The exam guide lists the main domains, the questions are centered around with th
 * Security - 24%
 * Cost-optimization - 18%
 
-These are 4 from the 5 quality attributes (or pillars) upon AWS built his [Well-Architected framework](https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/). (The fifth pillar is operational excellence which was removed in SAA-C02, although I believe this gets more focus in SysOps Administrator – Associate exam).
-
-
+These are 4 from the 5 quality attributes (or pillars) upon AWS built his [Well-Architected framework](https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/). (The fifth pillar is operational excellence which was removed in SAA-C02, although I believe this gets more focus in SysOps Administrator – Associate exam). Every pillar has a whitepaper which introduces design principles and best practices, you can run through it once but I mostly found them dry and boring. Domains are important because the different exam preparation guides structure usually follows this break-down too.
 
 
 
