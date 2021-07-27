@@ -3,7 +3,7 @@ title: Learning path for AWS SA Associate certificate
 subtitle: Doing it my way
 draft: true
 date: 2021-07-16T12:57:34.642Z
-excerpt: Detailed summary about the preparation for AWS SA Associate certificate.
+excerpt: Detailed summary of the preparation to AWS SA Associate certificate.
 template: post
 ---
 # **TLDR;**
