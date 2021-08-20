@@ -1,6 +1,6 @@
 ---
 title: Learning path for AWS SA Associate certificate
-subtitle: Doing it my way
+subtitle: '"Doing it my way"'
 draft: true
 date: 2021-07-16T12:57:34.642Z
 thumb_img_path: /images/aws-arch.jpg
@@ -53,17 +53,17 @@ You will find that the different exam preparation guide's structure follows this
 
 You will find tons of material online to tackle this certificate which takes a lot of time to filter. Make sure when you are searching that the content should target SAA-C02, because there are many obsolete material out there. I preferred video material and I had two conditions, it should be around 6-8 hours (there are ones above 20h) and should be free (or really cheap). In the end I settled with [AWS Certified Solutions Architect - Associate (SAA-C02)](https://learning.oreilly.com/videos/aws-certified-solutions/9780136721246/) from O'reilly, having a free access to the learning platform through UBS. (As an alternative, there is a [free course](https://www.youtube.com/watch?v=Ia-UEYYR44s) on Youtube from freeCodeCamp which got excellent feedbacks too)
 
-The O'reilly course is 6+ hours. It can be that short because it does not bother to explain all the very details e.g. in case of networking. There are no hands-on labs included, so all you get is pure data and information on services, system setups, integrations in a neatly organized way. It does a good job to explain the basic scenarios and gives answer to the most frequently asked questions.  I really liked that after every main topic they presented a couple of real-life exam question with detailed explanations about the correct answer.
+The O'reilly course is 6+ hours. It can be that short because it does not bother to explain all the details (e.g. in case of networking). There are no hands-on labs included, so all you get is pure data and information on services, system setups, integrations in a neatly organized way. It does a good job to explain the basic scenarios and gives answer to the most frequently asked questions on the exams. I really liked that after every main topic it dissected a couple of real-life exam questions with detailed explanations about the correct answer.
 
 Being extremely dense and packed with information you won't remember half of it after watching once. I realized that I need to take notes and restructure the information to make it stick (my [notes](https://docs.google.com/document/d/1ZNqCLrK7gRroSFAW-1OPIV1A2_XPEvGX4_6IMk1PdW0/edit?usp=sharing) on Google Drive). This obviously takes more time but later I turned many times to my notes and helped me a lot in the learning process. 
 
-After some topics I realized that I have some gaps which needs to be filled, for the low level things I used this course: [AWS Solutions Architect Associate (SAA-C02) Exam Prep Course - 2021 UPDATED!](<https://learning.oreilly.com/videos/aws-solutions-architect/9781800567054/>). This course is slower-placed and explains everything in a detailed (albeit a bit verbose) way.[](https://learning.oreilly.com/videos/aws-certified-solutions/9780136721246/)
+Some topics is hard to digest because of references that aren't introduced. To fill the gaps for the low level things I used this course: [AWS Solutions Architect Associate (SAA-C02) Exam Prep Course - 2021 UPDATED!](https://learning.oreilly.com/videos/aws-solutions-architect/9781800567054/). This course is slower-placed and explains everything in a detailed (albeit a bit verbose) way.[](https://learning.oreilly.com/videos/aws-certified-solutions/9780136721246/)
 
 It took me  roughly 12-13 hours to get through the course with active note taking.
 
 ## Practice exams
 
-Filled with information I was ready to jump on the next challenge. There is no shortage of practice exams on the net. I just picked the one with the best rating on Udemy to try out myself: [AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-k/). This was a lucky shot
+After the course you have all the raw information which needs to be polished with practice exams. The point in this phase is to identify recurring topics among the questions. There is no shortage of practice exams on the net. I just picked the one with the best rating on Udemy: [AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-k/). It contains 6 practice exam, the questions are well-picked and gives back the official exam feeling pretty well.
 
 # Hints
 
