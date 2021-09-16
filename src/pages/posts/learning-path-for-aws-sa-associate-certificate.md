@@ -76,3 +76,13 @@ This is all good so far but for me the secure browser proved to me a real headac
 # Resources
 
 You can find here all the resources I used.
+
+2 Oreilly courses
+
+Notes
+
+Exams
+
+https://jayendrapatil.com/aws-certified-solutions-architect-associate-saa-c02-exam-learning-path/
+
+[AWS Disaster Recovery: Pilot Light, Warm Standby, Multi-site | CBT Nuggets](https://www.cbtnuggets.com/blog/certifications/cloud/aws-disaster-recovery-pilot-light-warm-standby-multi-site)
