@@ -69,7 +69,7 @@ There is no shortage of practice exams on the net. I just picked the one with th
 
 # Exam
 
-You should reserve 
+The exam ($150) consist of 60 questions and takes 130 minutes (you can request extra 30 mins if you are a non-English speaker). You can schedule your exam through [PSI](https://awsavailability.psiexams.com/) or [Pearson VUE](https://home.pearsonvue.com/Clients/Amazon-Web-Services.aspx), you can postpone the date twice for free. COVID made the online-proctored exams very popular, this provides you the benefit of doing the exam from home albeit with many restrictions. I chose the online exam, which turned out to be of a headache due to the buggy online tools they force you to use. The online exam works the following way, you need to download a secure browser to connect to the questions, you should have a camera turned-on through the exam which records you not doing any suspicious thing. Your laptop must not run any other application. You should be alone in a closed room, no noise, no drink, no food, you can't leave your desk, your hands should be always visible. The exam starts with a proctor checking your ID and your place, you should turn the camera around to show your desk, which should be empty, no device around, you must place your phone somewhere far. This is all good so far but for me the secure browser proved to me a 
 
 # Resources
 
