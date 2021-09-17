@@ -65,24 +65,45 @@ It took me  roughly 12-13 hours to get through the course with active note takin
 
 After you finished the course you will have all the raw information which needs to be polished with practice exams. Practice exam simulates real exam as close as possible. With the set of questions you can identify recurring topics, you can get use to the way to navigate between questions and a built-in timer helps with time management and calculates a score at the end. The most important feature is the review mode where you can filter down to your failed answers and get an explanation on the good answers usually with some material linked. 
 
-There is no shortage of practice exams on the net. I just picked the one with the best rating on Udemy: [AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-k/) ($10.99 - you should wait for a sale!). This contains 6 practice exams, I solved all plus reviewed all my wrong answers. The goal is that you should score above 80%. To be honest I scored around 50-60 on most or these practice exams, so I wanted to practice more. I bought another set of exams from [Whizlabs](https://www.whizlabs.com/learn/course/aws-solutions-architect-associate/153) ($6.97) just to be on the safe side. This provides another 7 exams plus questions targeting a specific service. I solved only 3 main test and some of the topic-centric ones then my final exam was due. At that time I could confidently score around 80%.
+There is no shortage of practice exams on the net. I just picked the one with the best rating on Udemy: [AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-k/) ($10.99 - you should wait for a sale!). This contains 6 practice exams, I solved all plus reviewed all my wrong answers. The goal is that you should score above 80%. To be honest I scored around 50-60 on most or these practice exams, so I wanted to practice more. I bought another set of exams from [Whizlabs](https://www.whizlabs.com/aws-solutions-architect-associate/) ($6.97) just to be on the safe side. This provides another 7 exams plus questions targeting a specific service. I solved only 3 main test and some of the topic-centric ones then my final exam was due. At that time I could confidently score around 80%.
 
 # Exam
 
-The exam ($150) consist of 60 questions and takes 130 minutes (you can request extra 30 mins if you are a non-English speaker). You can schedule your exam through [PSI](https://content.psionline.com/aws-training) or [Pearson VUE](https://home.pearsonvue.com/aws/onvue), you can postpone the date twice for free. COVID made the online-proctored exams very popular, this provides you the benefit of doing the exam from home albeit with many restrictions. I chose the online exam, which turned out to be of a headache due to the buggy online tools they force you to use. The online exam works the following way, you need to download a secure browser to connect to the questions, you should have a camera turned-on through the exam which records you not doing any suspicious thing. Your laptop must not run any other application. You should be alone in a closed room, no noise, no drink, no food, you can't leave your desk, your hands should be always visible. The exam starts with a proctor checking your ID and your place, you should turn the camera around to show your desk, which should be empty, no device around, you must place your phone somewhere far. 
+The exam ($150) consist of 65 questions and takes 130 minutes (you can request extra 30 mins if you are a non-English speaker). To pass you need to reach >72%, the individual question's score weight differently, with multi choice questions you earn more score, overall score is 1000. Important to know that you won't be penalized for a wrong answer so it worth to guess. The time is more than enough if you are prepared, you can mark questions where you are unsure and come back anytime to review. I had more than half an hour for review after finished all the questions and eventually I scored 80%. Your score is calculated when you finish the exam or you will receive it in a couple of days in mail, no details on the wrong answers though.
+
+You can schedule your exam through [PSI](https://content.psionline.com/aws-training) or [Pearson VUE](https://home.pearsonvue.com/aws/onvue), you can postpone the date twice for free. COVID made the online-proctored exams very popular, this provides you the benefit of doing the exam from home albeit with many restrictions. I chose the online exam, which turned out to be of a headache due to the buggy online tools they force you to use. The online exam works the following way, you need to download a secure browser to connect to the questions, you should have a camera turned-on through the exam which records you not doing any suspicious thing. Your laptop must not run any other application. You should be alone in a closed room, no noise, no drink, no food, you can't leave your desk, your hands should be always visible. The exam starts with a proctor checking your ID and your place, you should turn the camera around to show your desk, which should be empty, no device around, you must place your phone somewhere far. 
 
 This is all good so far but for me the secure browser proved to me a real headache, it requires a constant network connection to transfer the recordings but for some reason on my personal laptop it showed 0Kb bandwidth despite I was connected to a 10GB Wifi. I could not make it work in half an hour the only solution was to use another laptop.
+
+# Summary
+
+The exam can be accomplished without having months of on-hands experience with AWS. Total cost of the exam and practice exams were $167.96, from this the exam cost was reimbursed by my company, so overall the certificate costed me ~$18. The time I spent with learning was approximately 40-45 hours.
 
 # Resources
 
 You can find here all the resources I used.
 
-2 Oreilly courses
+**Prep courses**
 
-Notes
+* [AWS Certified Solutions Architect - Associate (SAA-C02)](https://learning.oreilly.com/videos/aws-certified-solutions/9780136721246/) 
+* [AWS Solutions Architect Associate (SAA-C02) Exam Prep Course - 2021 UPDATED!](https://learning.oreilly.com/videos/aws-solutions-architect/9781800567054/)
+* \[Alternative] [AWS Certified Solutions Architect - Associate 2020 (PASS THE EXAM!)](https://www.youtube.com/watch?v=Ia-UEYYR44s)
 
-Exams
+**My notes**
 
-https://jayendrapatil.com/aws-certified-solutions-architect-associate-saa-c02-exam-learning-path/
+* [Google Drive](https://docs.google.com/document/d/1ZNqCLrK7gRroSFAW-1OPIV1A2_XPEvGX4_6IMk1PdW0/edit?usp=sharing)
 
-[AWS Disaster Recovery: Pilot Light, Warm Standby, Multi-site | CBT Nuggets](https://www.cbtnuggets.com/blog/certifications/cloud/aws-disaster-recovery-pilot-light-warm-standby-multi-site)
+**Practice exams**
+
+* [AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-k/)
+* [Whizlabs - AWS Certified Solutions Architect Associate](https://www.whizlabs.com/aws-solutions-architect-associate/)
+
+**Cheatsheet**
+
+* [Jayendra's Cloud Certification Blog](https://jayendrapatil.com/)
+
+**Useful material**
+
+* [Official AWS documentation](https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do)
+* [AWS Disaster Recovery: Pilot Light, Warm Standby, Multi-site | CBT Nuggets](https://www.cbtnuggets.com/blog/certifications/cloud/aws-disaster-recovery-pilot-light-warm-standby-multi-site)
+* [FAQ pages for services](https://aws.amazon.com/faqs/)
