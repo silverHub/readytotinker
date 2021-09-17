@@ -3,7 +3,8 @@ title: Learning path for AWS SA Associate certificate
 subtitle: '"Doing it my way"'
 draft: false
 date: 2021-07-16T12:57:34.642Z
-thumb_img_path: /images/aws-arch.jpg
+thumb_img_path: /images/aws-saa.png
+content_img_path: ""
 excerpt: Detailed summary of the preparation to AWS SA Associate certificate.
 template: post
 ---
