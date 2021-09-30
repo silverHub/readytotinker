@@ -21,7 +21,7 @@ The intention is to help readers to get the certificate with minimal effort. Obv
 
 # **Background**
 
-I'm working as a lead dev since 10+ years. During my professional carrier I worked mostly on web applications both on BE (Java) and FE (JS), except for a short 4 years when I tasted a bit of telecommunication (C). In the last 3 years I turned my attention towards software and solution architecture and I'm still actively educate myself via self-learning. Because I didn't have any exposure to cloud based applications so far, getting the AWS SA certificate seemed to me an ideal challenge. I had zero experience with Amazon Web Services beside of a few architecture related articles read about AWS (and in general about cloud computing), no hands-on stuff though. I was also curious how long would it take to pick up the knowledge needed to pass the exam.
+I'm working as a lead dev since 10+ years. During my professional carrier I worked mostly on web applications both on BE (Java) and FE (JS), except for a short 4 years when I tasted a bit of telecommunication (C). In the last 3 years I turned my attention towards software and solution architecture and I'm still actively educating myself via self-learning. Because I didn't have any exposure to cloud based applications so far, getting the AWS SA certificate seemed to me an ideal challenge. I had zero experience with Amazon Web Services beside of a few architecture related articles read about AWS (and in general about cloud computing), no hands-on stuff though. I was also curious how long would it take to pick up the knowledge needed to pass the exam.
 
 # Preparation
 
